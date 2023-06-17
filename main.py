@@ -489,4 +489,4 @@ def run(token: str):
         th.join()
 
 if __name__ == "__main__":
-    run("ODM3NDE5NzQ3ODg0MjY5NTc4.YIsR6g.8Ca5mhWYP0msL0DR_Zt6IEbDns4")
+    run("")
